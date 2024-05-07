@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
 <br>
 
 <p align="center">
-  <img alt="projeto Guest List" src="preview1.png" width="30%" flex = 1>
+  <img alt="projeto Guest List" src="preview1.png" width="30%" flex = 1>&nbsp;&nbsp;&nbsp;
   <img alt="projeto Guest List" src="preview2.png" width="30%" flex = 1 margin:200px >
 </p>
 
