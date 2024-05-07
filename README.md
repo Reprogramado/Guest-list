@@ -12,7 +12,7 @@
 
 <p align="center">
   <img alt="projeto Guest List" src="preview1.png" width="30%" flex = 1>
-  <img alt="projeto Guest List" src="preview2.png" width="30%" flex = 1 margin-left:200px >
+  <img alt="projeto Guest List" src="preview2.png" width="30%" flex = 1 margin:200px >
 </p>
 
 ## 🚀 Tecnologias
