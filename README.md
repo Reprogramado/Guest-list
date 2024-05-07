@@ -11,8 +11,8 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Guest List" src="preview1.png" width="50%" flex = 1>
-  <img alt="projeto Guest List" src="preview2.png" width="50%" flex = 1>
+  <img alt="projeto Guest List" src="preview1.png" width="30%" flex = 1>
+  <img alt="projeto Guest List" src="preview2.png" width="30%" flex = 1>
 </p>
 
 ## 🚀 Tecnologias
